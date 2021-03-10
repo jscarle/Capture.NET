@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>CaptureNET</RootNamespace>
+    <RootNamespace>Capture</RootNamespace>
     <AssemblyName>CaptureNET</AssemblyName>
     <PackageId>Capture.NET</PackageId>
     <Description>PCAP and PCAP Next Generation Management Library</Description>
