@@ -5,7 +5,7 @@
     <RootNamespace>Capture</RootNamespace>
     <AssemblyName>CaptureNET</AssemblyName>
     <PackageId>Capture.NET</PackageId>
-    <Description>PCAP and PCAP Next Generation Management Library</Description>
+    <Description>PCAP and PCAP Next Generation Management</Description>
     <Company>Jean-Sebastien Carle</Company>
     <Authors>Jean-Sebastien Carle</Authors>
     <Product>Capture.NET</Product>
