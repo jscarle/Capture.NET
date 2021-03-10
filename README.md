@@ -1,2 +1,2 @@
 # Capture.NET
-PCAP and PCAP Next Generation Management Library
+PCAP and PCAP Next Generation Management
